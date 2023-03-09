@@ -1,4 +1,5 @@
 # 3D-Image-watermarking-using-Sift
+# This paper is written during the final year of my B.Tech program.
 
 Digital watermarking is the technique developed to assure the protection and security of an image or any multimedia information. The main reason behind digital watermarking is to provide copyright protection along with data validation and content integrity validation.
 
